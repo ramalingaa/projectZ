@@ -56,3 +56,9 @@
     height: 50%;
     
 }
+/* nav-bar-css */
+.logo-align {
+    font-size: 32px;
+    border: 2px solid #4b6cc1;
+    padding: 2px 10px 2px 10px;
+}
