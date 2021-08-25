@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-grad-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97, #ad2167);
+    background-size: cover;
+    height: 100%;
+
+}
+
+.img-top-container {
+    width: 80%;
+}
+
+.img-mid-container {
+    width: 100%;
+}
+
+.img-top-md-container {
+    width: 100%;
+}
+
+.sbi-img-align {
+    width: 80%;
+}
+
+.main-header {
+    color: #ad2167;
+    font-size: 2rem;
+}
+
+.para-text {
+    color: white;
+    font-size: 1.5rem;
+    font-family: "Roboto";
+}
+
+.img-mid-top-container {
+    width: 100%;
+    height: 100%;
+}
+
+.text-italyic {
+    font-style: italic;
+}
+/* nav-css */
+.nav-logo-align {
+    width: 30vh;
+}
+
+.home-text {
+    font-weight: 350;
+    font-size: 1.5rem;
+}
+
+/* offers-explore-css */
+
+.img-align {
+    width: 90%;
+    border-radius: 20px;
+}
+
+.img-text {
+    color: #183b56;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.icon {
+    font-size: 1rem;
+    color: #ff9f00;
+}
+
+.see-text {
+    font-size: 1.5rem;
+    color: #ff9f00;
+}
+
+.card-header {
+    color: #183b56;
+}
+
+.img-2-align {
+    width: 100%;
+    border-radius: 20px;
+}
+.explore-main-heading{
+    color: #ff9f00;
+    font-size: 2rem;
+}
+.explore-card-heading{
+    color: #3e4c59;
+    font-size: 1.5rem;
+}
+
+/* footer-css */
+
+.bg-container {
+    background-color: #19232d;
+    background-size: cover;
+    height: 100%;
+}
+
+.img-container {
+    width: 50%;
+}
+
+.icon {
+    font-size: 2vh;
+    color: #959ead;
+    padding: 20px;
+    background-color: #202b36;
+    border-radius: 40px;
+}
+
+.paragraph {
+    color: #959ead;
+    font-size: 1em;
+}
+
+.list-align {
+    list-style-type: none;
+}
+
+.header {
+    color: #959ead;
+    font-size: 2em;
+}
+
+.icon-copyright {
+    font-size: 22px;
+    color: #959ead;
+}
+
+.copyright-card {
+    border-top: 2px solid #959ead;
+
+}
+
+.get-text {
+    color: #5a7184;
+}
+
+.get-header {
+    font-size: 2rem;
+}

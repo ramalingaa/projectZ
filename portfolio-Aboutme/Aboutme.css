@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #1f2933;
+    background-size: cover;
+    height: 100%;
+}
+
+.img-align {
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.facts-text {
+    color: #cced00;
+    font-size: 2em;
+    font-weight: bold;
+
+}
+
+.header-text {
+    color: white;
+    font-weight: bold
+}
+
+.top-card {
+    font-family: "Roboto";
+}
+
+.bio-text {
+    color: #9aa5b1;
+    margin-top: 10px;
+    font-size: 1.5em;
+}
+
+.bg-top-container {
+    background-color: #323f4b;
+    background-size: cover;
+
+}
+
+.img-btm-align {
+    width: 64px;
+    height: 64px;
+    margin-top: 20px;
+
+
+}
+
+.sub-text {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.img-btm-cards {
+    border: 1px solid #323f4b;
+    background-color: #323f4b;
+    border-radius: 20px;
+}
+
+.sub-text-bg {
+    background-color: #1f2933;
+}
